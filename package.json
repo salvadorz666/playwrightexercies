@@ -1,0 +1,22 @@
+{
+  "name": "playwrightexercies",
+  "version": "1.0.0",
+  "description": "New repository for Playwright exercices",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvadorz666/playwrightexercies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salvadorz666/playwrightexercies/issues"
+  },
+  "homepage": "https://github.com/salvadorz666/playwrightexercies#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.28"
+  }
+}
